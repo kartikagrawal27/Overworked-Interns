@@ -1,0 +1,212 @@
+[
+  {
+    "timestamp": "2016-03-16 03:49:01.261846", 
+    "testcases": [
+      {
+        "description": "Running the simulator with 5 companies and 6 interns", 
+        "ptsEarned": 0, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "name": "5_companies_6_interns", 
+        "ptsPossible": 1.0
+      }, 
+      {
+        "description": "Running the simulator with 5 companies and 5 interns", 
+        "ptsEarned": 0, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "name": "5_companies_5_interns", 
+        "ptsPossible": 1.0
+      }, 
+      {
+        "description": "Running the simulator with 5 companies and 4 interns", 
+        "ptsEarned": 0, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "name": "5_companies_4_interns", 
+        "ptsPossible": 1.0
+      }, 
+      {
+        "description": "Running the simulator with 5 companies and 1 intern", 
+        "ptsEarned": 1, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nCongratulations intern!\n\nYou have succesfully livelocked instead of deadlocking!\n", 
+        "name": "5_companies_1_interns", 
+        "ptsPossible": 1.0
+      }, 
+      {
+        "description": "Running the simulator with 2 companies and 2 interns", 
+        "ptsEarned": 0, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "name": "2_companies_2_interns", 
+        "ptsPossible": 1.0
+      }
+    ], 
+    "checksum": "d901d6501e8ffd32a875faf3f106f08b97b56520  good_company.c", 
+    "revision": "(Pull Time: 2016-03-17 | Revision # 53444)"
+  }, 
+  {
+    "timestamp": "2016-03-16 12:27:50.083498", 
+    "testcases": [
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "ptsEarned": 0, 
+        "ptsPossible": 1.0, 
+        "name": "5_companies_6_interns", 
+        "description": "Running the simulator with 5 companies and 6 interns"
+      }, 
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "ptsEarned": 0, 
+        "ptsPossible": 1.0, 
+        "name": "5_companies_5_interns", 
+        "description": "Running the simulator with 5 companies and 5 interns"
+      }, 
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "ptsEarned": 0, 
+        "ptsPossible": 1.0, 
+        "name": "5_companies_4_interns", 
+        "description": "Running the simulator with 5 companies and 4 interns"
+      }, 
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nCongratulations intern!\n\nYou have succesfully livelocked instead of deadlocking!\n", 
+        "ptsEarned": 1, 
+        "ptsPossible": 1.0, 
+        "name": "5_companies_1_interns", 
+        "description": "Running the simulator with 5 companies and 1 intern"
+      }, 
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "ptsEarned": 0, 
+        "ptsPossible": 1.0, 
+        "name": "2_companies_2_interns", 
+        "description": "Running the simulator with 2 companies and 2 interns"
+      }
+    ], 
+    "revision": "(Pull Time: 2016-03-17 | Revision # 53798)", 
+    "checksum": "d901d6501e8ffd32a875faf3f106f08b97b56520  good_company.c"
+  }, 
+  {
+    "timestamp": "2016-03-16 18:28:40.584396", 
+    "testcases": [
+      {
+        "ptsPossible": 1.0, 
+        "ptsEarned": 0, 
+        "description": "Running the simulator with 5 companies and 6 interns", 
+        "name": "5_companies_6_interns", 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n"
+      }, 
+      {
+        "ptsPossible": 1.0, 
+        "ptsEarned": 0, 
+        "description": "Running the simulator with 5 companies and 5 interns", 
+        "name": "5_companies_5_interns", 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n"
+      }, 
+      {
+        "ptsPossible": 1.0, 
+        "ptsEarned": 0, 
+        "description": "Running the simulator with 5 companies and 4 interns", 
+        "name": "5_companies_4_interns", 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n"
+      }, 
+      {
+        "ptsPossible": 1.0, 
+        "ptsEarned": 1, 
+        "description": "Running the simulator with 5 companies and 1 intern", 
+        "name": "5_companies_1_interns", 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nCongratulations intern!\n\nYou have succesfully livelocked instead of deadlocking!\n"
+      }, 
+      {
+        "ptsPossible": 1.0, 
+        "ptsEarned": 0, 
+        "description": "Running the simulator with 2 companies and 2 interns", 
+        "name": "2_companies_2_interns", 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n"
+      }
+    ], 
+    "checksum": "d901d6501e8ffd32a875faf3f106f08b97b56520  good_company.c", 
+    "revision": "(Pull Time: 2016-03-17 | Revision # 54460)"
+  }, 
+  {
+    "timestamp": "2016-03-16 21:53:01.462242", 
+    "testcases": [
+      {
+        "description": "Running the simulator with 5 companies and 6 interns", 
+        "ptsEarned": 0, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "name": "5_companies_6_interns", 
+        "ptsPossible": 1.0
+      }, 
+      {
+        "description": "Running the simulator with 5 companies and 5 interns", 
+        "ptsEarned": 0, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "name": "5_companies_5_interns", 
+        "ptsPossible": 1.0
+      }, 
+      {
+        "description": "Running the simulator with 5 companies and 4 interns", 
+        "ptsEarned": 0, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "name": "5_companies_4_interns", 
+        "ptsPossible": 1.0
+      }, 
+      {
+        "description": "Running the simulator with 5 companies and 1 intern", 
+        "ptsEarned": 1, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nCongratulations intern!\n\nYou have succesfully livelocked instead of deadlocking!\n", 
+        "name": "5_companies_1_interns", 
+        "ptsPossible": 1.0
+      }, 
+      {
+        "description": "Running the simulator with 2 companies and 2 interns", 
+        "ptsEarned": 0, 
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nYour solution did not allow any company to make progress\n", 
+        "name": "2_companies_2_interns", 
+        "ptsPossible": 1.0
+      }
+    ], 
+    "revision": "(Pull Time: 2016-03-17 | Revision # 54851)", 
+    "checksum": "d901d6501e8ffd32a875faf3f106f08b97b56520  good_company.c"
+  }, 
+  {
+    "timestamp": "2016-03-17 00:30:02.513833", 
+    "testcases": [
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 3 billable days.\nCompany 1 used our services for 3 billable days.\nCompany 2 used our services for 4 billable days.\nCompany 3 used our services for 5 billable days.\nCompany 4 used our services for 6 billable days.\nCongratulations intern!\n\nYou have succesfully billed all companies and fairly!\n", 
+        "ptsPossible": 1.0, 
+        "ptsEarned": 1.0, 
+        "name": "5_companies_6_interns", 
+        "description": "Running the simulator with 5 companies and 6 interns"
+      }, 
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 3 billable days.\nCompany 1 used our services for 4 billable days.\nCompany 2 used our services for 5 billable days.\nCompany 3 used our services for 6 billable days.\nCompany 4 used our services for 3 billable days.\nCongratulations intern!\n\nYou have succesfully billed all companies and fairly!\n", 
+        "ptsPossible": 1.0, 
+        "ptsEarned": 1.0, 
+        "name": "5_companies_5_interns", 
+        "description": "Running the simulator with 5 companies and 5 interns"
+      }, 
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 3 billable days.\nCompany 1 used our services for 4 billable days.\nCompany 2 used our services for 6 billable days.\nCompany 3 used our services for 2 billable days.\nCompany 4 used our services for 2 billable days.\nCongratulations intern!\n\nYou have succesfully billed all companies and fairly!\n", 
+        "ptsPossible": 1.0, 
+        "ptsEarned": 1.0, 
+        "name": "5_companies_4_interns", 
+        "description": "Running the simulator with 5 companies and 4 interns"
+      }, 
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 0 billable days.\nCompany 1 used our services for 0 billable days.\nCompany 2 used our services for 0 billable days.\nCompany 3 used our services for 0 billable days.\nCompany 4 used our services for 0 billable days.\nCongratulations intern!\n\nYou have succesfully livelocked instead of deadlocking!\n", 
+        "ptsPossible": 1.0, 
+        "ptsEarned": 1, 
+        "name": "5_companies_1_interns", 
+        "description": "Running the simulator with 5 companies and 1 intern"
+      }, 
+      {
+        "log": "Trying to compile your code...\nSuccessfully compiled your code..\nCompany 0 used our services for 6 billable days.\nCompany 1 used our services for 5 billable days.\nCongratulations intern!\n\nYou have succesfully billed all companies and fairly!\n", 
+        "ptsPossible": 1.0, 
+        "ptsEarned": 1.0, 
+        "name": "2_companies_2_interns", 
+        "description": "Running the simulator with 2 companies and 2 interns"
+      }
+    ], 
+    "checksum": "caff21707b95454101a51b060a01da904055d79b  good_company.c", 
+    "revision": "(Pull Time: 2016-03-17 | Revision # 55223)"
+  }
+]
